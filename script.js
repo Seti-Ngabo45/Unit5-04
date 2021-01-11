@@ -1,4 +1,4 @@
-document.getElementById("calculate").addEventListener("click", solve);
+document.getElementById('calculate').addEventListener('click', solve)
 function solve () {
   let width = document.getElementById('width').value
   width = parseInt(width)
